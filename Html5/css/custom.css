@@ -1,0 +1,33 @@
+#accordion{
+	width: 50%;
+	float: left;
+}
+#accordion .section{
+	min-height: 400px;
+}
+.right-section{
+	float: right;
+	width: 49%;
+}
+#customcodes{
+	height: 400px;
+	width: 98%;
+	background: #ddd;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+.canvas-tag{
+	width: 100%;
+	min-height: 400px;
+}
+.button{
+	border: 1px solid #ccc;
+    border-radius: 0.2em;
+    box-shadow: 0 0 1px #555;
+    font-size: 1.3em;
+    height: 2.2em;
+    padding: 0 1.5em;
+}
+.button:hover{
+	box-shadow:none;
+}
